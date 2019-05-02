@@ -1,4 +1,4 @@
-package maximum_difference_between_node_and_ancestor1026;
+package no1026;
 /**
 Given the root of a binary tree, find the maximum value V for which there exists different nodes A and B where V = |A.val - B.val| and A is an ancestor of B.
 
