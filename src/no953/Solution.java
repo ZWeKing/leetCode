@@ -1,4 +1,4 @@
-package verifying_an_alien_dictionary953;
+package no953;
 
 import java.util.HashMap;
 import java.util.Map;
