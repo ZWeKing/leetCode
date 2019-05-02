@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
  * Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
  *
  * Find all the elements of [1, n] inclusive that do not appear in this array.
@@ -42,9 +43,6 @@ public class Solution {
             }
         }
 
-
-        System.out.println(result);
-
         return result;
 
 
@@ -53,5 +51,6 @@ public class Solution {
 
     public static void main(String[] args) {
         new Solution().findDisappearedNumbers(new int[]{3,3,3,4});
+
     }
 }
