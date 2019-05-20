@@ -11,3 +11,6 @@
 #### 3. https://github.com/ZWeKing/leetCode/blob/master/src/no547/Solution.java （深度优先搜索）
 ##### 3.1 https://github.com/ZWeKing/leetCode/blob/master/src/no547/Solution2.java （并查集方法）
 
+深度优先遍历：
+#### 1.https://github.com/ZWeKing/leetCode/blob/master/src/no1026/Solution.java
+
