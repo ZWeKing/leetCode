@@ -6,4 +6,5 @@
 #### 3. https://github.com/ZWeKing/leetCode/blob/master/src/no70/Solution.java
 
 图相关题目：
-#### 1. https://github.com/ZWeKing/leetCode/blob/master/src/no207/Solution.java (图的深度优先搜索)
+#### 1. https://github.com/ZWeKing/leetCode/blob/master/src/no207/Solution.java (深度优先搜索)
+#### 2. https://github.com/ZWeKing/leetCode/blob/master/src/no947/Solution.java (深度优先搜索)
