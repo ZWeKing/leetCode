@@ -20,7 +20,7 @@ import java.util.PriorityQueue;
  * You may assume k is always valid, 1 ≤ k ≤ array's length.
  */
 public class KthLargestElementInAnArray215Medium {
-    public int findKthLargest(int[] nums, int k) {
+    /*public int findKthLargest(int[] nums, int k) {
 
         //建立最小堆
         PriorityQueue<Integer> queue = new PriorityQueue<>(k, new Comparator<Integer>() {
@@ -51,6 +51,33 @@ public class KthLargestElementInAnArray215Medium {
         }
 
         return queue.poll();
+
+    }*/
+
+    /**
+     *
+     * @param nums
+     * @param k
+     * @return
+     */
+    public int findKthLargest(int[] nums, int k) {
+
+        //建立最小堆
+        Heap queue = new Heap(k);
+
+        for (int i = 0; i < nums.length; i++) {
+            if(queue.size() < k) {
+                queue.insert(nums[i]);
+            } else {
+                int topValue = queue.array[0];
+                if (nums[i] > topValue) {
+                    queue.delete();
+                    queue.insert(nums[i]);
+                }
+            }
+        }
+
+        return queue.delete();
 
     }
 
