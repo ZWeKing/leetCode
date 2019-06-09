@@ -27,3 +27,5 @@
 堆
 #### 1.KthLargestElementInAnArray[(problem)](https://leetcode.com/problems/kth-largest-element-in-an-array/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/heap/KthLargestElementInAnArray215Medium.java)
 #### 2.Top K Frequent Elements[(problem)](https://leetcode.com/problems/top-k-frequent-elements/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/heap/TopKFrequentElements347Medium.java)
+贪心
+#### 1.Assign Cookies[(problem)](https://leetcode.com/problems/assign-cookies/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/greedy/AssignCookies455Easy.java);
