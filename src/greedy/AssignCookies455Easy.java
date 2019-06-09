@@ -31,7 +31,7 @@ import java.util.List;
  * You need to output 2.
  */
 public class AssignCookies455Easy {
-    public int findContentChildren(int[] g, int[] s) {
+    /*public int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
 
@@ -50,6 +50,30 @@ public class AssignCookies455Easy {
                 childCount++;
             } else {
                 indexS++;
+            }
+        }
+
+
+        return childCount;
+    }*/
+
+    public int findContentChildren(int[] g, int[] s) {
+        Arrays.sort(g);
+        Arrays.sort(s);
+
+
+        int indexG = g.length - 1;
+        int indexS = s.length - 1;
+
+        int childCount = 0;
+
+        while(indexG >= 0 && indexS >= 0) {
+            if (g[indexG] <= s[indexS]) {
+                indexG--;
+                indexS--;
+                childCount++;
+            } else {
+                indexG--;
             }
         }
 
