@@ -29,3 +29,9 @@
 #### 2.Top K Frequent Elements[(problem)](https://leetcode.com/problems/top-k-frequent-elements/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/heap/TopKFrequentElements347Medium.java)
 贪心
 #### 1.Assign Cookies[(problem)](https://leetcode.com/problems/assign-cookies/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/greedy/AssignCookies455Easy.java);
+数组
+#### 1.Remove Duplicates from Sorted Array[(problem)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+#### 2.Two Sum II - Input array is sorted[(problem)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+回溯法
+#### 1.Subsets(Medium)[(problem)](https://leetcode.com/problems/subsets/)
+#### 2.Subsets II(Medium)[(problem)](https://leetcode.com/problems/subsets-ii/)
