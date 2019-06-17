@@ -23,6 +23,7 @@
 
 链表
 #### 1.SortedLinkList[(problem)](https://leetcode.com/problems/sort-list/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/linkedList/SortList148Medium.java)
+#### 2.Remove Duplicates from Sorted List(Easy)[(problem)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 堆
 #### 1.KthLargestElementInAnArray[(problem)](https://leetcode.com/problems/kth-largest-element-in-an-array/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/heap/KthLargestElementInAnArray215Medium.java)
@@ -32,6 +33,7 @@
 数组
 #### 1.Remove Duplicates from Sorted Array[(problem)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 #### 2.Two Sum II - Input array is sorted[(problem)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-回溯法
+回溯
 #### 1.Subsets(Medium)[(problem)](https://leetcode.com/problems/subsets/)
 #### 2.Subsets II(Medium)[(problem)](https://leetcode.com/problems/subsets-ii/)
+
