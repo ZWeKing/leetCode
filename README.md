@@ -37,6 +37,7 @@
 数组
 #### 1.Remove Duplicates from Sorted Array[(problem)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 #### 2.Two Sum II - Input array is sorted[(problem)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+#### 3.Shuffle an Array (medium) [(problem)](https://leetcode.com/problems/shuffle-an-array/) 
 回溯
 #### 1.Subsets(Medium)[(problem)](https://leetcode.com/problems/subsets/)
 #### 2.Subsets II(Medium)[(problem)](https://leetcode.com/problems/subsets-ii/)
