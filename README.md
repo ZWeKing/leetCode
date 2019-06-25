@@ -6,6 +6,7 @@
 #### 3. https://github.com/ZWeKing/leetCode/blob/master/src/no70/Solution.java
 #### 4. CoinChange(Medium) [(problem)](https://leetcode.com/problems/coin-change/)  [(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/no322/CoinChange.java)
 #### 5. Min Cost Climbing Stairs(Easy)[(problem)](https://leetcode.com/problems/min-cost-climbing-stairs/)
+#### 6. Best Time to Buy and Sell Stock (Easy) [(problem)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 图相关题目：
 #### 1. https://github.com/ZWeKing/leetCode/blob/master/src/no207/Solution.java (深度优先搜索)
