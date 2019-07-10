@@ -20,6 +20,7 @@
 #### 1.https://github.com/ZWeKing/leetCode/blob/master/src/no1026/Solution.java
 #### 2. MaxDepthBinaryTree[(problem)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/dfs/MaxDepthBinaryTree104Easy.java)
 #### 3. NumberofEnclaves[(problem)](https://leetcode.com/problems/number-of-enclaves/) [(sloution)](https://github.com/ZWeKing/leetCode/blob/master/src/dfs/NumberofEnclaves1020Medium.java)
+#### 4.second-minimum-node-in-a-binary-tree (Medium) [(problem)](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 
 树（二叉树）
 #### 1.MaximumBinaryTree[(problem)](https://leetcode.com/problems/maximum-binary-tree/)[(sloution)](https://github.com/ZWeKing/leetCode/blob/master/src/tree/MaximumBinaryTree654Medium.java)
@@ -45,4 +46,8 @@
 回溯
 #### 1.Subsets(Medium)[(problem)](https://leetcode.com/problems/subsets/)
 #### 2.Subsets II(Medium)[(problem)](https://leetcode.com/problems/subsets-ii/)
+
+位运算
+#### 1.single-number(Easy)[(problem)](https://leetcode.com/problems/single-number/)
+#### 2.Single Number II(Medium)[(problem)](https://leetcode.com/problems/single-number-ii/)
 
