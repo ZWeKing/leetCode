@@ -26,7 +26,8 @@
 #### 1.MaximumBinaryTree[(problem)](https://leetcode.com/problems/maximum-binary-tree/)[(sloution)](https://github.com/ZWeKing/leetCode/blob/master/src/tree/MaximumBinaryTree654Medium.java)
 #### 2.Lowest Common Ancestor of a Binary Search Tree (easy) [(problem)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 #### 3.Lowest Common Ancestor of a Binary Tree (medium) [(problem)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-#### 4.Merge Two Binary Trees (easy) [(problem)] (https://leetcode.com/problems/merge-two-binary-trees/)
+#### 4.Merge Two Binary Trees (easy) [(problem)](https://leetcode.com/problems/merge-two-binary-trees/)
+#### 5.ReContructTree [(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/tree/ContructTree.java)
 
 链表
 #### 1.SortedLinkList[(problem)](https://leetcode.com/problems/sort-list/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/linkedList/SortList148Medium.java)
