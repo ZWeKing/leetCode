@@ -26,12 +26,14 @@
 #### 1.MaximumBinaryTree[(problem)](https://leetcode.com/problems/maximum-binary-tree/)[(sloution)](https://github.com/ZWeKing/leetCode/blob/master/src/tree/MaximumBinaryTree654Medium.java)
 #### 2.Lowest Common Ancestor of a Binary Search Tree (easy) [(problem)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 #### 3.Lowest Common Ancestor of a Binary Tree (medium) [(problem)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-#### 4.Merge Two Binary Trees (easy) [(problem)] (https://leetcode.com/problems/merge-two-binary-trees/)
+#### 4.Merge Two Binary Trees (easy) [(problem)](https://leetcode.com/problems/merge-two-binary-trees/)
+#### 5.ReContructTree [(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/tree/ContructTree.java)
 
 链表
 #### 1.SortedLinkList[(problem)](https://leetcode.com/problems/sort-list/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/linkedList/SortList148Medium.java)
 #### 2.Remove Duplicates from Sorted List(Easy)[(problem)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 #### 3.Add Two Numbers(medium)[(problem)](https://leetcode.com/problems/add-two-numbers/)
+#### 4.Reverse Linked List (Easy)[(problem)](https://leetcode.com/problems/reverse-linked-list/)
 
 堆
 #### 1.KthLargestElementInAnArray[(problem)](https://leetcode.com/problems/kth-largest-element-in-an-array/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/heap/KthLargestElementInAnArray215Medium.java)
