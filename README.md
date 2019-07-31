@@ -53,3 +53,6 @@
 #### 1.single-number(Easy)[(problem)](https://leetcode.com/problems/single-number/)
 #### 2.Single Number II(Medium)[(problem)](https://leetcode.com/problems/single-number-ii/)
 
+字符串
+#### 1.Longest Substring Without Repeating Characters (meidum)[(problem)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)[(solution)](https://github.com/ZWeKing/leetCode/blob/master/src/string/LongestSubstringWithoutRepeatingCharacters.java)
+
